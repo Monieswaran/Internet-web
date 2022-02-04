@@ -16,7 +16,9 @@ body{
 .title{
     display: flex;
     height: 100vh;
-    font-size: 2.2rem;
+    font-size: xx-large;
     margin-top: 10px;
+    font-weight: bold;
+
 
 }
